@@ -30,9 +30,9 @@
   + 斜率的大小，大，步伐就大。
   + **学习率** $`\eta`$，这是自己设定的值，如果比较大，那么每次参数更新的量就会大，学习的速度就比较快。由于这不是机器自己找出来的，故被称为**超参数**。
 
-  ```math
-  w^0-\eta \frac{\partial L}{\partial w}|_{w=w^0}\rightarrow w^1
-  ```
+```math
+w^0-\eta \frac{\partial L}{\partial w}|_{w=w^0}\rightarrow w^1
+```
 
   然后不断重复之前的过程，直到停下来。
   停下来有两种情况：
