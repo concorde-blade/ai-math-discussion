@@ -2,6 +2,21 @@
 
 An AI and mathematics discussion group at the University of Science and Technology of China (USTC).
 
+## 我的学习笔记
+
+本 fork 收录了我在机器学习与深度学习基础部分整理的四章学习笔记，包含概念梳理、公式推导与配图。
+
+| 章节 | 学习内容 |
+| --- | --- |
+| [第 1 章：机器学习基础](notes/deep-learning/Chap1%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md) | 模型、损失函数、梯度下降、激活函数与神经网络 |
+| [第 2 章：实践方法论](notes/deep-learning/Chap2%20%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%B3%95%E8%AE%BA.md) | 模型偏差、优化问题、过拟合、交叉验证与分布不匹配 |
+| [第 3 章：深度学习基础](notes/deep-learning/Chap3%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md) | 鞍点、动量、自适应学习率、分类损失与批量归一化 |
+| [第 4 章：卷积神经网络](notes/deep-learning/Chap4%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md) | 感受野、参数共享、卷积、汇聚与 AlphaGo 示例 |
+
+[进入学习笔记目录](notes/deep-learning/README.md)
+
+## 讨论组与课程说明
+
 **Course QQ Group: 498805144**
 
 Hi everyone! This group is built around self-study and discussion, with no scheduled lectures. I will provide topics and reference materials; you will study independently and write up what you have learned to demonstrate your understanding.
