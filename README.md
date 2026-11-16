@@ -4,7 +4,7 @@ An AI and mathematics discussion group at the University of Science and Technolo
 
 ## 我的学习笔记
 
-本 fork 收录了我在机器学习与深度学习基础部分整理的四章学习笔记，包含概念梳理、公式推导与配图。
+本 fork 收录了我在机器学习与深度学习基础部分整理的七章学习笔记，包含概念梳理、公式推导与配图。
 
 | 章节 | 学习内容 |
 | --- | --- |
@@ -12,6 +12,9 @@ An AI and mathematics discussion group at the University of Science and Technolo
 | [第 2 章：实践方法论](notes/deep-learning/Chap2%20%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%B3%95%E8%AE%BA.md) | 模型偏差、优化问题、过拟合、交叉验证与分布不匹配 |
 | [第 3 章：深度学习基础](notes/deep-learning/Chap3%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md) | 鞍点、动量、自适应学习率、分类损失与批量归一化 |
 | [第 4 章：卷积神经网络](notes/deep-learning/Chap4%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md) | 感受野、参数共享、卷积、汇聚与 AlphaGo 示例 |
+| [第 5 章：循环神经网络](notes/deep-learning/Chap5%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md) | RNN 架构、LSTM、梯度问题与序列到序列应用 |
+| [第 6 章：自注意力机制](notes/deep-learning/Chap6%20%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md) | QKV、多头注意力、位置编码与 CNN、RNN 对比 |
+| [第 7 章：Transformer](notes/deep-learning/Chap7%20Transformer.md) | 编码器、解码器、交叉注意力与序列训练技巧 |
 
 [进入学习笔记目录](notes/deep-learning/README.md)
 

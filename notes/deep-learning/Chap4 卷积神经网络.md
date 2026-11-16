@@ -1,6 +1,6 @@
 # 第 4 章：卷积神经网络
 
-[学习笔记目录](README.md) · [上一章](Chap3%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
+[学习笔记目录](README.md) · [上一章](Chap3%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md) · [下一章](Chap5%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 
 ---
 
